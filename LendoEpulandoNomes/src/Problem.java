@@ -10,9 +10,9 @@ public class Problem {
 		for(int i=0 ; i<10 ; i++)
 			nomes[i] = sc.nextLine();
 
-			System.out.println(nomes[2]);
-			System.out.println(nomes[6]);
-			System.out.println(nomes[8]);
+			System.out.println(nomes[2+6+8]);
+			/*System.out.println(nomes[6]);
+			System.out.println(nomes[8]);*/
 
 	}
 }
